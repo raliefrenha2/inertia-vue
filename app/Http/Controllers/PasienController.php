@@ -28,7 +28,7 @@ class PasienController extends Controller
      */
     public function create()
     {
-        //
+        // test
     }
 
     /**
