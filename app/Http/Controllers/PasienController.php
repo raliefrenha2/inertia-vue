@@ -39,7 +39,7 @@ class PasienController extends Controller
      */
     public function store(Request $request)
     {
-        // test user dua
+        // test user dua edit
     }
 
     /**
